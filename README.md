@@ -1,4 +1,5 @@
 I. Description
+-----------------
 
 This project allows to download a file given as an argument.
 The argument is a URL, the file is downloaded then a logging function for keeping logs of the download operation.
